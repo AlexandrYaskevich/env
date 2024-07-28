@@ -1,5 +1,8 @@
 # Webpack5
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
-![CI](https://github.com/<AlexandrYaskevich>/<git@github.com:AlexandrYaskevich/env.git>/actions/workflows/web.yml/badge.svg)
+
+![CI](https://github.com/<AlexandrYaskevich>/<git@github.com:AlexandrYaskevich/GoblinaddEventListener.git>/actions/workflows/web.yml/badge.svg)
+
+#### [Ссылка на Github Pages](https://github.com/AlexandrYaskevich/GoblinaddEventListener/)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/qcbdpysild3dgmnb?svg=true)](https://ci.appveyor.com/project/AlexandrYaskevich/goblinaddeventlistener)
